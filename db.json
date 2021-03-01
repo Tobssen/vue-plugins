@@ -1,0 +1,12 @@
+{
+    "products": [
+        {"id": 111, "name": "Phone 1", "type": "hardware", "description": "a very standard issue mobile phone", "price": "50.71", "image":"images/phone1.jpg", "date":"01.01.2020"},
+        {"id": 112, "name": "Phone 2", "type": "hardware", "description": "a very standard issue mobile phone with touch", "price": "160.71", "image":"../images/phone2.jpg", "date":"01.01.2020"},
+        {"id": 113, "name": "Phone 3", "type": "hardware", "description": "a very standard issue mobile phone with front camera", "price": "250.71", "image":"images/phone3.jpg", "date":"01.01.2020"},
+        {"id": 114, "name": "Phone 4", "type": "hardware", "description": "a high tech smart phone with a excellent camera", "price": "580.71", "image":"images/phone4.jpg", "date":"01.01.2020"},  
+        {"id": 115, "name": "Contract 1", "type": "tarif", "upload": "200", "download": "100", "description": "a s sized mobile phone Contract", "price": "50.71", "image":"images/contract.png", "date":"01.01.2020"},
+        {"id": 116, "name": "Contract 2", "type": "tarif", "upload": "200", "download": "250", "description": "a m sized mobile phone Contract with basic phone", "price": "160.71", "image":"../images/contract.png", "date":"01.01.2020"},
+        {"id": 117, "name": "Contract 3", "type": "tarif", "upload": "500", "download": "500", "description": "a l sized mobile phone Contract with mobile with front camera", "price": "250.71", "image":"images/contract.png", "date":"01.01.2020"},
+        {"id": 118, "name": "Contract 4", "type": "tarif", "upload": "500", "download": "1000", "description": "a xl sized 5G contract with high tech smart phone with a excellent camera", "price": "580.71", "image":"images/contract.png", "date":"01.01.2020"}
+    ]      
+}
